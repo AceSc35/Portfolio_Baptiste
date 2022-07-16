@@ -519,35 +519,35 @@ img {
 }
 
 .skills__html {
-  width: 90%;
-}
-
-.skills__css {
-  width: 80%;
-}
-
-.skills__js {
-  width: 60%;
-}
-
-.skills__react {
-  width: 45%;
-}
-
-.skills__redux {
-  width: 45%;
-}
-
-.skills__node {
   width: 70%;
 }
 
+.skills__css {
+  width: 60%;
+}
+
+.skills__js {
+  width: 40%;
+}
+
+.skills__react {
+  width: 25%;
+}
+
+.skills__redux {
+  width: 25%;
+}
+
+.skills__node {
+  width: 40%;
+}
+
 .skills__sql {
-  width: 50%;
+  width: 40%;
 }
 
 .skills__sequelize {
-  width: 50%;
+  width: 40%;
 }
 
 .skills__postman {
@@ -555,11 +555,11 @@ img {
 }
 
 .skills__mongodb {
-  width: 70%;
+  width: 45%;
 }
 
 .skills__seo {
-  width: 80%;
+  width: 60%;
 }
 
 .skills__photoshop {
