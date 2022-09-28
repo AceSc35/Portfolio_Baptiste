@@ -518,62 +518,6 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
-  width: 70%;
-}
-
-.skills__css {
-  width: 60%;
-}
-
-.skills__js {
-  width: 40%;
-}
-
-.skills__react {
-  width: 25%;
-}
-
-.skills__redux {
-  width: 25%;
-}
-
-.skills__node {
-  width: 40%;
-}
-
-.skills__sql {
-  width: 40%;
-}
-
-.skills__sequelize {
-  width: 40%;
-}
-
-.skills__postman {
-  width: 70%;
-}
-
-.skills__mongodb {
-  width: 45%;
-}
-
-.skills__seo {
-  width: 60%;
-}
-
-.skills__wordpress {
-  width: 60%;
-}
-
-.skills__photoshop {
-  width: 70%;
-}
-
-.skills__premierepro {
-  width: 50%;
-}
-
 .skills__close .skills__list {
   height: 0;
   overflow: hidden;
